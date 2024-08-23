@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,500&display=swap');
+
+header{
+    padding: 15px;
+}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+     font-family: "Inter", sans-serif;
+     font-size: 20px;
+     padding: 0 25px !important;
+}
+ .menu ul li a:hover{
+    color: orange !important;
+}
+.nto:focus {
+    box-shadow: none;
+}
+/*search*/
+.d_d{
+    
+}
+.d_d a{
+    border: 0;
+}
+
+.d_d a i{
+     
+}
+.d_d a::after {
+display: none;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 50px;
+    left: -270px;
+    margin-top: 0;
+}
+.d_dm{
+    width: 300px;
+}
+.ddmi{
+border: 0;
+}
+.ddmb{
+    border: none;
+    background-color: transparent;
+}
+.ddmb i{
+    font-size: 20px;
+    padding: 10px;
+}
+.ddf{
+
+}
+.form-control:focus {
+    box-shadow: none;
+}
+.src{
+    font-size: 20px;
+    padding: 10px;
+}
+.arc{
+    font-size: 20px;
+}
+/*banner start*/
+.banner{
+    
+}
+.b_text{
+    margin: 80px 0;
+}
+.bh1{
+    padding: 0 34px 24px;
+    font-family: "Playfair Display", serif;
+    font-size: 64px;
+}
+.bp2{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
+.ba3{
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+}
+.b_link{
+    padding: 17px;
+    background-color: brown;
+    color: white;
+    width: 280px;
+    height: 60px;
+}
+.ar{
+    padding: 0px 5px;
+}
+}
+.bt1{
+
+}
+.rc{
+    padding: 30px 30px 0;
+}
+.bm{
+    
+}
+.b_img{
+
+}
+.b_img img{
+
+}
+/*banner end*/
